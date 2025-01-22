@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "45570064499",
+    "firebase_url": "https://activity-c3ebd-default-rtdb.firebaseio.com",
+    "project_id": "activity-c3ebd",
+    "storage_bucket": "activity-c3ebd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45570064499:android:4b603944b0c8f008526a06",
+        "android_client_info": {
+          "package_name": "com.example.onlinedb_phimchanok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUJOwbOuDuJjLX37u9fajxyMq5lQcgiq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
